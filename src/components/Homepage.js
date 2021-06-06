@@ -7,10 +7,12 @@ function Home () {
         <div>
             <p className="title"> Popular Titles</p>
 
-            <section>
+            <section style={{float:"left"}}>
                 <img src={image} alt="series" />
                <p className="series">SERIES</p>
                <p>Popular Series</p>
+            </section>
+            <section>
                <img src={image} alt="movie" />
                <p className="movie">MOVIES</p>
                <p>Popular Movies</p>
