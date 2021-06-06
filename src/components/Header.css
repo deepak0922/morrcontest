@@ -1,0 +1,34 @@
+
+.navbar ul li{
+    display: inline;
+  }
+  .navbar{
+    background-color: #0073FF;
+    margin-top: 0px;
+    height: 35px;
+    color: white;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 2px;
+    padding-bottom: 25px;
+    margin-bottom: 0px;
+  }
+  .left-header{
+    float: right;
+    margin-right: 100px;
+  }
+  .Logo{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 60px;
+  }
+  .left-header button{
+    background-color: #414141;
+    color: white;
+    border-radius: 2px;
+    border: 0px;
+    margin-left: 30px;
+    font-size: 15px;
+    padding: 8px;
+  }
